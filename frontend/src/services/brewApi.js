@@ -1,5 +1,5 @@
 const API_URL = `${
-  import.meta.env.VITE_API_URL || "http://localhost:5000/api"
+import.meta.env.VITE_API_URL || "https://coffee-brew-log-qa7i.onrender.com/api"
 }/brews`;
 
 export const getBrews = async (method = "") => {
