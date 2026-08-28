@@ -1,4 +1,4 @@
-Coffee Brew Log
+# Coffee Brew Log
 
 A full-stack Coffee Brew Log application built for the XPL Full-Stack Developer Bootcamp assessment.
 
@@ -6,29 +6,26 @@ The app allows users to create, view, filter, edit, and delete coffee brew entri
 
 Live Demo: https://nobuhledhlamini.github.io/coffee-brew-log/
 
-Features
-Create a brew entry
-View all brews
-Filter brews by brew method
-Edit brew entries
-Delete brew entries
-Form validation
-Responsive design
+## Features
 
-Technologies Used
-React
-CSS
-Node.js
-Express
-PostgreSQL
-ORM
+- Create a brew entry
+- View all brews
+- Filter brews by brew method
+- Edit brew entries
+- Delete brew entries
+- Form validation
+- Responsive design
+
+## Technologies Used
+
+- React
+- CSS
+- Node.js
+- Express
+- PostgreSQL
+- ORM
 
 
-API
-GET /api/brews - Get all brews
-POST /api/brews - Create a brew
-PUT /api/brews/:id - Update a brew
-DELETE /api/brews/:id - Delete a brew
-Author
+## Author
 
 Nobuhle Dhlamini
